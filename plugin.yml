@@ -1,0 +1,8 @@
+name: CubeInfo
+version: 1.0.0
+main: phpcube\CubeInfo
+api: 5.0.0
+author: vk.com/phpcube
+permissions:
+  cmd.cinfo:
+    default: true
